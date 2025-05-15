@@ -69,7 +69,7 @@ The project uses five main tables:
 
 ## Project Focus
 
-Utilize SQL functions for aggregations, joins, window functions, and time-based analysis to derive business insights on sales and warranty claims.
+Utilize SQL functions like aggregations, joins, window functions, and time-based analysis to derive business insights on sales and warranty claims.
 
 ## Dataset
 
