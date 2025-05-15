@@ -1,38 +1,16 @@
 
-# ![Apple Logo](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/Apple_Changsha_RetailTeamMembers_09012021_big.jpg.slideshow-xlarge_2x.jpg) Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
+# ![Apple Logo](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/Apple_Changsha_RetailTeamMembers_09012021_big.jpg.slideshow-xlarge_2x.jpg) Apple Retail Sales SQL Project 
 
-**Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
 
 ## Project Overview
 
-This project is designed to showcase advanced SQL querying techniques through the analysis of over 1 million rows of Apple retail sales data. The dataset includes information about products, stores, sales transactions, and warranty claims across various Apple retail locations globally. By tackling a variety of questions, from basic to complex, you'll demonstrate your ability to write sophisticated SQL queries that extract valuable insights from large datasets.
-
-The project is ideal for data analysts looking to enhance their SQL skills by working with a large-scale dataset and solving real-world business questions.
+To analyze Apple’s global sales data to uncover product performance trends, regional disparities, and operational inefficiencies, supporting data-driven business decisions.
 
 ## Entity Relationship Diagram (ERD)
 
 ![ERD](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/erd.png)
 
-**Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
-
-Here’s the shortened and improved version of the "What’s Included" and "Why Choose This Project" sections, along with the link:
-
 ---
-
-### What’s Included:
-- **100 SQL Practice Problems**: Extensive coverage of major SQL topics for mastering concepts with real-world data.
-- **20 Advanced SQL Queries**: Step-by-step solutions for complex queries, enhancing your skills in performance tuning and optimization.
-- **5 Detailed Tables**: Comprehensive datasets with over 1 million rows, including sales, stores, product categories, products, and warranties.
-- **Query Performance Tuning**: Learn to optimize queries for real-world data handling.
-- **Portfolio-Ready Project**: Showcase your SQL expertise through large-scale data analysis.
-
-### Why Choose This Project?
-- **Hands-on Learning**: Practical experience with complex datasets and advanced business problem-solving.
-- **Comprehensive Coverage**: Each table provides new opportunities to explore SQL concepts.
-- **Exceptional Value**: For just **$9**, access 100 SQL problems, 20 advanced query solutions, and a real-world project.
-- **Limited Offer**: Special price available for the **first 100 students**!
-
-**Get the guided project/datasets here**: [Get the Project Datasets](https://topmate.io/zero_analyst/1237072)
 
 ## Database Schema
 
@@ -68,11 +46,7 @@ The project uses five main tables:
    - `sale_id`: References the sales table.
    - `repair_status`: Status of the warranty claim (e.g., Paid Repaired, Warranty Void).
 
-## Objectives
-
-The project is split into three tiers of questions to test SQL skills of increasing complexity:
-
-### Easy to Medium (10 Questions)
+## Business Questions
 
 1. Find the number of stores in each country.
 2. Calculate the total number of units sold by each store.
@@ -84,37 +58,21 @@ The project is split into three tiers of questions to test SQL skills of increas
 8. Find the average price of products in each category.
 9. How many warranty claims were filed in 2020?
 10. For each store, identify the best-selling day based on highest quantity sold.
-
-### Medium to Hard (5 Questions)
-
 11. Identify the least selling product in each country for each year based on total units sold.
 12. Calculate how many warranty claims were filed within 180 days of a product sale.
 13. Determine how many warranty claims were filed for products launched in the last two years.
 14. List the months in the last three years where sales exceeded 5,000 units in the USA.
 15. Identify the product category with the most warranty claims filed in the last two years.
-
-### Complex (5 Questions)
-
 16. Determine the percentage chance of receiving warranty claims after each purchase for each country.
 17. Analyze the year-by-year growth ratio for each store.
 18. Calculate the correlation between product price and warranty claims for products sold in the last five years, segmented by price range.
 19. Identify the store with the highest percentage of "Paid Repaired" claims relative to total claims filed.
 20. Write a query to calculate the monthly running total of sales for each store over the past four years and compare trends during this period.
 
-### Bonus Question
-
-- Analyze product sales trends over time, segmented into key periods: from launch to 6 months, 6-12 months, 12-18 months, and beyond 18 months.
 
 ## Project Focus
 
-This project primarily focuses on developing and showcasing the following SQL skills:
-
-- **Complex Joins and Aggregations**: Demonstrating the ability to perform complex SQL joins and aggregate data meaningfully.
-- **Window Functions**: Using advanced window functions for running totals, growth analysis, and time-based queries.
-- **Data Segmentation**: Analyzing data across different time frames to gain insights into product performance.
-- **Correlation Analysis**: Applying SQL functions to determine relationships between variables, such as product price and warranty claims.
-- **Real-World Problem Solving**: Answering business-related questions that reflect real-world scenarios faced by data analysts.
-
+Used SQL functions for aggregations, joins, window functions, and time-based analysis to derive business insights on sales and warranty claims.
 
 ## Dataset
 
@@ -124,6 +82,5 @@ This project primarily focuses on developing and showcasing the following SQL sk
 
 ## Conclusion
 
-By completing this project, you will develop advanced SQL querying skills, improve your ability to handle large datasets, and gain practical experience in solving complex data analysis problems that are crucial for business decision-making. This project is an excellent addition to your portfolio and will demonstrate your expertise in SQL to potential employers.
-
+Analyzed sales trends and warranty claims for different regions and products, providing insights that will help to improve product quality, after-sales service, and business focus in weak markets. The insights will support the company in refining warranty policies, addressing key problem areas, and enhancing customer satisfaction.
 ---
