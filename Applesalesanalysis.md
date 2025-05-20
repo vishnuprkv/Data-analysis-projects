@@ -5,7 +5,7 @@ To analyze Apple’s global sales data to uncover product performance trends, re
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/erd.png)
+![ERD]((https://github.com/vishnuprkv/applesalesanalysis/blob/main/erd.png))
 
 ---
 
