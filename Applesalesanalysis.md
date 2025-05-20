@@ -78,6 +78,6 @@ Utilize SQL functions like aggregations, joins, window functions, and time-based
 - **Geographical Coverage**: Sales data from Apple stores across various countries.
 
 ## Conclusion
--
+
 Analyzed sales trends and warranty claims for different regions and products, providing insights that will help to improve product quality, after-sales service, and business focus in weak markets. The insights will support the company in refining warranty policies, addressing key problem areas, and enhancing customer satisfaction.
 ---
